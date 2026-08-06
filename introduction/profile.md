@@ -12,7 +12,7 @@
 
 \## 📞 연락처
 
-\- 이메일: hong@gmail.com
+\- 이메일: hong@gmail.com !!
 
 
 
