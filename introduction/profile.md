@@ -1,17 +1,22 @@
 # 👋 안녕하세요! 강경모 입니다.
 
 
+
 ## 🚀 기술 스택
 
-- HTML/CSS
+* HTML/CSS
+* JavaScript
+* Git \& GitHub
 
-- JavaScript
 
-- Git & GitHub
+
+\## 📞 연락처
+
+\- 이메일: hong@gmail.com
 
 
 
 ## 🎯 목표
 
-- Git \& GitHub 완벽 마스터하기!
+* Git \& GitHub 완벽 마스터하기!
 
